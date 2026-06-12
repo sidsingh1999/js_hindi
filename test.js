@@ -35,3 +35,4 @@ const balance = new Number(100);
 console.log(balance); // Output: [Number: 100]
 
 
+console.log(balance.toString());
