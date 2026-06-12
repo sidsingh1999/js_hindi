@@ -20,5 +20,8 @@
 // const url = "https://www.youtube.com/ watch?v=abc123";
 
 // console.log(url.replace(" ", "")); // should asked and changes also
-const url = "https://www.youtube.com/ watch?v=abc123";
-console.log(url.includes("youtube")); 
+// const url = "https://www.youtube.com/ watch?v=abc123";
+// console.log(url.includes("youtube")); 
+
+const str1 = "Hello_si";
+console.log(str1.split("_")); // should split the string into an array of characters
