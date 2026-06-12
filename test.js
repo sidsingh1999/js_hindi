@@ -23,5 +23,15 @@
 // const url = "https://www.youtube.com/ watch?v=abc123";
 // console.log(url.includes("youtube")); 
 
-const str1 = "Hello_si";
-console.log(str1.split("_")); // should split the string into an array of characters
+// const str1 = "Hello_si";
+// console.log(str1.split("_")); // should split the string into an array of characters
+
+
+// Number and maths in js 
+
+const Score = 4001;
+console.log(Score); // Output: 4001
+const balance = new Number(100);
+console.log(balance); // Output: [Number: 100]
+
+
