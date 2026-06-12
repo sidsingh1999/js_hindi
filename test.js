@@ -36,3 +36,4 @@ console.log(balance); // Output: [Number: 100]
 
 
 console.log(balance.toString().length); // Output: 3
+console.log(balance.toFixed(2)); // Output: "100.00"
