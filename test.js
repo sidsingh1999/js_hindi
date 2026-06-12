@@ -41,5 +41,8 @@
 // const otherNumber = 3.14159;
 // console.log(otherNumber.toPrecision(3));
 
-const hundreds = 1000000;
-console.log(hundreds.toLocaleString('en-IN'));
+// const hundreds = 1000000;
+// console.log(hundreds.toLocaleString('en-IN'));
+
+
+//++++++ Maths ++++++ // comes by default with js
