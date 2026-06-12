@@ -29,14 +29,17 @@
 
 // Number and maths in js 
 
-const Score = 4001;
-console.log(Score); // Output: 4001
-const balance = new Number(100);
-console.log(balance); // Output: [Number: 100]
+// const Score = 4001;
+// console.log(Score); // Output: 4001
+// const balance = new Number(100);
+// console.log(balance); // Output: [Number: 100]
 
 
-console.log(balance.toString().length); // Output: 3
-console.log(balance.toFixed(2)); // Output: "100.00"
+// console.log(balance.toString().length); // Output: 3
+// console.log(balance.toFixed(2)); // Output: "100.00"
 
-const otherNumber = 3.14159;
-console.log(otherNumber.toPrecision(3));
+// const otherNumber = 3.14159;
+// console.log(otherNumber.toPrecision(3));
+
+const hundreds = 1000000;
+console.log(hundreds.toLocaleString('en-IN'));
