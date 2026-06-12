@@ -46,3 +46,8 @@
 
 
 //++++++ Maths ++++++ // comes by default with js
+
+const hundreds = 1000000;
+console.log(Math);
+console.log(Math.abs(-5)); // Output: 5
+console.log(Math.round(3.7)); // Output: 4
