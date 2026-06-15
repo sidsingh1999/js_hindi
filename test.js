@@ -59,3 +59,8 @@ const myarray2 = new Array(1,2,3,4,5);
 console.log(myarray[0]); 
 console.log(myHeroes[2]); 
 console.log(myarray2[4]); 
+
+
+//Array methods in js 
+myarray.push(6);
+console.log(myarray);
