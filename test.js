@@ -65,5 +65,5 @@
 // myarray.push(6);
 // console.log(myarray);
 // myarray.pop();
-myarray.unshift(0);
-console.log(myarray);
+// myarray.unshift(0);
+// console.log(myarray);
