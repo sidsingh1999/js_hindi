@@ -66,4 +66,5 @@ console.log(myarray2[4]);
 // console.log(myarray);
 // myarray.pop();
 myarray.unshift(0);
+myarray.shift();
 console.log(myarray);
