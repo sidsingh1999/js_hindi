@@ -62,5 +62,8 @@ console.log(myarray2[4]);
 
 
 //Array methods in js 
-myarray.push(6);
+// myarray.push(6);
+// console.log(myarray);
+// myarray.pop();
+myarray.unshift(0);
 console.log(myarray);
